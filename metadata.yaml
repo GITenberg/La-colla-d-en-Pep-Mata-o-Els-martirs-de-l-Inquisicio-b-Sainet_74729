@@ -1,0 +1,31 @@
+_repo: La-colla-d-en-Pep-Mata-o-Els-martirs-de-l-Inquisicio-b-Sainet_74729
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Iglesias, Ignasi
+    aliases:
+    - Iglésias, Ignasi
+    - Iglesias, Ignacio
+    birthdate: 1871
+    deathdate: 1928
+    gutenberg_agent_id: '56807'
+    url: http://www.gutenberg.org/2009/agents/56807
+    wikipedia: https://ca.wikipedia.org/wiki/Ignasi_Igl%C3%A9sias_i_Pujadas
+description: ''
+gutenberg_issued: '2024-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74729'
+language: ca
+pgterms:marc905: 20241107021902iglsias
+pgterms:marc906: '1908'
+pgterms:marc907: ES
+production_note: 'editor digital: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bTip. "L''avenç", $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La colla d''en Pep Mata o "Els martirs de l''Inquisició" : $b Sainet'
+url: http://www.gutenberg.org/ebooks/74729
