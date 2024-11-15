@@ -1,5 +1,8 @@
 _repo: La-colla-d-en-Pep-Mata-o-Els-martirs-de-l-Inquisicio-b-Sainet_74729
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74729-h/images/cover.jpg
 creator:
   author:
     agent_name: Iglesias, Ignasi
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56807
     wikipedia: https://ca.wikipedia.org/wiki/Ignasi_Igl%C3%A9sias_i_Pujadas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74729#La-colla-d-en-Pep-Mata-o-Els-martirs-de-l-Inquisicio-b-Sainet
 gutenberg_issued: '2024-11-12'
 gutenberg_type: Text
 identifiers:
